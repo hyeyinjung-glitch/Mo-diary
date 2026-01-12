@@ -1,0 +1,5 @@
+{
+  "name": "MoDiary - Modern Diary & Planner",
+  "description": "A clean, minimalist calendar-based app for managing daily checklists, schedules, and personal diaries with persistent storage and an elegant UI.",
+  "requestFramePermissions": []
+}
